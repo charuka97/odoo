@@ -1,4 +1,4 @@
-#!C:\CHARUKA\PERSONAL PROJECTS\OdooDev\server\venv\Scripts\python.exe
+#!C:\Users\ADMIN\Desktop\Odoo\odoo\venv\Scripts\python.exe
 
 # $Id: rst2s5.py 9115 2022-07-28 17:06:24Z milde $
 # Author: Chris Liechti <cliechti@gmx.net>

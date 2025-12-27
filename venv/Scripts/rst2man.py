@@ -1,4 +1,4 @@
-#!C:\CHARUKA\PERSONAL PROJECTS\OdooDev\server\venv\Scripts\python.exe
+#!C:\Users\ADMIN\Desktop\Odoo\odoo\venv\Scripts\python.exe
 
 # Author:
 # Contact: grubert@users.sf.net
